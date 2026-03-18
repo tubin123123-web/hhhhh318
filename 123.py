@@ -1,1 +1,1 @@
-from collections import Counter
+print("123")
